@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyal Ringort</h1>
-<h3 align="center">A backend software engineer a-go-go</h3>
+<h3 align="center">Backend software engineer a-gogo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyalrin&label=Profile%20views&color=0e75b6&style=flat" alt="eyalrin" /> </p>
 
