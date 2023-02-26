@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a scalable webhook delivery system using Kafka, SQS &amp; S3](https://medium.com/yotpoengineering/building-a-scalable-webhook-delivery-system-using-kafka-sqs-s3-e9808eaa8a04?source=rss-747812be41ca------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
